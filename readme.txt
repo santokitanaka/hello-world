@@ -1,5 +1,5 @@
 test2
 
-##メンバー
+## メンバー
 
 *testmember
